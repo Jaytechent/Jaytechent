@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jaytechent
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently on a blockchian developer course
-- 💞️ I’m looking to collaborate on a e-commerce website that collects strictly crypto currency.
-I am open for more idea or collaborator for my Dapp project.
+- 👀 I’m a blockchain developer
+- 🌱 A fullstack JavaScript developer course
+- 💞️ I take on ambitious projects.
+I create incredible masterpiece from my corner.
 
 <!---
 Jaytechent/Jaytechent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
