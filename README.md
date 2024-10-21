@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaytechent
 - 👀 I’m a blockchain developer
-- 🌱 A fullstack JavaScript developer course
+- 🌱 A fullstack JavaScript developer
 - 💞️ I take on ambitious projects.
 - I create incredible masterpiece from my corner.
 - The goal is to solve problem 
